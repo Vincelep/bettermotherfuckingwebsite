@@ -52,6 +52,11 @@ You never knew it, but it's easy to improve readability on your site. Here's how
 If your text hits the side of the browser, fuck off forever. You ever see a book like that? Yes? What a shitty book.
 </p>
 
+<h2>A little less contrast</h2>
+
+<p>
+Black on white? How often do you see that kind of contrast in real life? Tone it down a bit, asshole. I would've even made this site's background a nice <code>#EEEEEE</code> if I wasn't so focused on keeping declarations to a lean 7 fucking lines.
+</p>
 
 
 <html>
