@@ -82,5 +82,15 @@ I love what the creator of <a href="http://motherfuckingwebsite.com/">this site'
 - Eleanor Roosevelt
 </blockquote>
 
+<hr>
 
+<h2>Epilogue</h2>
+
+<p>
+Inspired by the geniuses behind <a href="http://motherfuckingwebsite.com/">motherfuckingwebsite.com</a> and <a href="http://txti.es">txti</a>.
+</p>
+
+<p>
+This page—that isn't a total fucking eyesore—was created by me with help from <a href="https://twitter.com/gabehammersmith">him</a>. 
+</p>
 <html>
