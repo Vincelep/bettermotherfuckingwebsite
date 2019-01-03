@@ -37,4 +37,21 @@ has all the glory of the original perfect-ass website:
 	<li>Shit's <em>still</em> legible and gets your fucking point across</li>
 </ul>
 
+<h3>And guess what, motherfucker:</h3>
+
+<p>
+You never knew it, but it's easy to improve readability on your site. Here's how.
+</p>
+
+<h2>Let it breathe</h2>
+<p>
+	Look at lines 1 and 2 of some shitty website you're building. Assuming they're not married they probably shouldn't be humping. The defaults are trash -- pick a minimum <code>line-height: 1.4</code> for body copy. Headings should be tighter. If you can't see that...piss off.
+</p>
+
+<p>
+If your text hits the side of the browser, fuck off forever. You ever see a book like that? Yes? What a shitty book.
+</p>
+
+
+
 <html>
