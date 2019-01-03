@@ -64,6 +64,11 @@ Black on white? How often do you see that kind of contrast in real life? Tone it
 I know your partner says otherwise, but it's true. Bump that body copy to render close to 16px or more. Smaller type works well for print, not the screen.
 </p>
 
+<h2>Line-width, motherfucker</h2>
+
+<p>
+Looking at an LCD screen is strainful enough. Don't make me read a line of text that's 200 fucking characters long. Keep it to a nice 60-80 and users might actually read more than one sentence of your worthless dribble.
+</p>
 
 
 <html>
