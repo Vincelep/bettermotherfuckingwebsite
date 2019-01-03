@@ -70,5 +70,12 @@ I know your partner says otherwise, but it's true. Bump that body copy to render
 Looking at an LCD screen is strainful enough. Don't make me read a line of text that's 200 fucking characters long. Keep it to a nice 60-80 and users might actually read more than one sentence of your worthless dribble.
 </p>
 
+<h3>Yes, this is <em>also</em> fucking satire, you fuck</h3>
+
+<p>
+I love what the creator of <a href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'm saying is that it's so, so simple to make sites easier to read. Websites are broken by default, they are functional, high-performing, and accessible, but they're also fucking ugly. You and all the other web designers out there need to make them not total shit.
+</p>
+
+
 
 <html>
